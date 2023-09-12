@@ -1,0 +1,16 @@
+.temp{
+    font-size: 26px;
+}
+.weather{
+    font-size: 16px;
+    margin-top: 16px;
+    font-family:Arial, Helvetica, sans-serifs;
+    font-weight: 700;
+}
+.date{
+    font-size: 16px;
+    margin-top: 40px;
+    font-family:Arial, Helvetica, sans-serifs;
+    font-weight: 700;
+
+}

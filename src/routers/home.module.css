@@ -1,0 +1,25 @@
+.contain_box{
+    width: 390px;
+    height: 844px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-radius: 15px;
+    background-color: #FBF4FB;
+    position: relative;
+    padding: 0px 20px 0px 20px;
+}
+.title{
+    margin-top: 166px;
+    font-size: 22px;
+    margin-left: 20px;
+
+}
+.weather_now{
+    width: 350px;
+    height: 160px;
+    border-radius: 15px;
+    margin-top: 16px;
+    background-color: #DDD1EE;
+    padding: 25px 28px 8px 25px;
+}

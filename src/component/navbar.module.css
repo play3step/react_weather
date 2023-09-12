@@ -1,0 +1,19 @@
+.navbar{
+    width: 350px;
+    height: 64px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 64px;
+    position: absolute;
+    background-color: #DDD1EE;
+    border-radius: 15px;
+    padding: 16px;
+}
+.navbar span{
+    font-size: 32px;
+    margin-left: 56px;
+}
+.navbar span:first-child{
+    margin: 0px;
+}

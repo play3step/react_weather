@@ -1,0 +1,33 @@
+.weekcontain{
+    width: 300px;
+    height: 33px;
+    border-bottom: 1px solid #a09a9a;
+    margin-top: 20px;
+    position: relative;
+}
+
+.date{
+    font-size: 12px;
+}
+
+.weather{
+    margin-left: 16px;
+    font-size: 12px;
+}
+
+.maxtemp{
+    position: absolute;
+    right: 105px;
+    font-size: 12px;
+    top: 13%;
+    
+
+}
+
+.mintemp{
+    position: absolute;
+    right: 25px;
+    font-size: 12px;
+    top: 13%;
+
+}
